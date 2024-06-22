@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk Hatipoğlu</h1>
-<h3 align="center">A passionate backend developer from Turkey. I am a highly motivated backend developer with a strong passion for creating efficient and scalable solutions.</h3>
+<h3 align="center">A passionate iOS developer from Turkey. I am a highly motivated iOS developer with a strong passion for creating efficient and scalable solutions.</h3>
 
-- 🌱 I’m currently learning **Kotlin, Spring Boot, Swift**
+- 🌱 I’m currently learning **Swift**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
