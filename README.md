@@ -4,8 +4,7 @@
 <p align="left"> I graduated from the computer engineering department. I have knowledge of programming languages such as Python and C#. I take online courses on data 
 engineering, improve myself and get certificates. With my analytical thinking ability and problem-solving skills, I believe I can design, develop, test, and maintain big 
 data infrastructures and systems to manage data flow effectively. I can analyze large amounts of data and transform it into meaningful and useful information. I am 
-good at teamwork, have strong communication skills, and am always open to learning. In this position, I aim to develop innovative solutions by contributing to your 
-strategies.</p>
+good at teamwork, have strong communication skills, and am always open to learning.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/berk-hatipoglu-419646218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berk-hatipoglu-419646218" height="30" width="40" /></a>
