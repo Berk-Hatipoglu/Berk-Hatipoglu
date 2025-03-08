@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Berk HATIPOGLU</h1>
 <h3 align="center">A passionate data engineer from Turkey</h3>
 
-<p align="left"> I graduated from the computer engineering department. I have knowledge of programming languages such as Python and C#. I take online courses on data 
-engineering, improve myself and get certificates. With my analytical thinking ability and problem-solving skills, I believe I can design, develop, test, and maintain big 
-data infrastructures and systems to manage data flow effectively. I can analyze large amounts of data and transform it into meaningful and useful information. I am 
-good at teamwork, have strong communication skills, and am always open to learning.</p>
+<p align="left"> I am a Computer Engineering graduate with a strong background in data engineering and software development. I have hands-on experience with programming
+languages such as Python and C#, and I actively improve my skills through online courses and certifications in data engineering. I have experience working with
+big data technologies such as Apache Airflow, Kafka, Spark, and Cassandra, designing scalable data pipelines, and managing data workflows efficiently. My
+strong analytical thinking and problem-solving skills enable me to process large datasets, extract meaningful insights, and develop data-driven solutions. Additionally, I am highly collaborative, possess strong communication skills, and am always eager to learn new technologies. In this role, I aim to contribute to
+your data-driven strategies by designing and optimizing innovative data solutions.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/berk-hatipoglu-419646218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berk-hatipoglu-419646218" height="30" width="40" /></a>
